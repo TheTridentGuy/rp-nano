@@ -4,6 +4,7 @@
 I designed this mainly for rubber ducky applications. It's extremely similar to the [picoducky](https://github.com/Outdatedcandy92/PicoDucky), but rp2040 based, and I started designing it before i knew picoducky was a thing.
 
 ### PCB:
+![](images/3d1.png)
 ![](images/top.png)
 ![](images/inner1.png)
 ![](images/inner2.png)
