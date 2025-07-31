@@ -21,5 +21,5 @@ I designed this mainly for rubber ducky applications. It's extremely similar to 
 
 | Item     | Qty | Price Each | Running Total |
 |-         |-    |-           |-              |
-| PCBs x10 | 1   | $139       | $139          |
+| PCBx5 PCBAx2 | 1   | $120       | $120        |
 ### Firmware: https://circuitpython.org/board/raspberry_pi_pico/
