@@ -6,6 +6,13 @@ description: "Minimal RP2040 board, designed for USB HID applications."
 ### August 19:
 1h 
 
+Part 2:
+
+It worked! I was able to install CircuitPython and run some code to send keystrokes to my PC. The wires going to it are it's 3V3 life support.
+![](images/20250819_191516.jpg)![](images/20250819_191546.jpg)
+
+Part 1:
+
 PCBs finally arrived today, but I was saddened to discover that the "same LDO in correct package" was actually "different LDO in the correct package" (fuck whoever thought having the same part numbers for different voltages of LDO was a good idea). So the 3V3 line was actually a 1V25 line. Never fear though! I put it on 3V3 life support and its working! Updates coming soon!
 
 ### July 24:
